@@ -7,6 +7,7 @@ I'm looking to learn and collaborate on interesting videogame programming projec
 ### 🛠️ Tech Stack & Tools
 
 My main programming language is C# but i'm also learning: Python, C, C++ and Java.
+
 I'm a beginner focusing on 2D gameplay programming, RPG mechanics and Game Jam projects.
 
 ### 🏆 Highlighted Project
