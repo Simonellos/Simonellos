@@ -1,9 +1,7 @@
 # Hi there, I'm Simonellos 👋
 
 I am an aspiring **Indie Game Developer** focused on 2D mechanics, systems design, and gameplay programming.  
-Always exploring new tools and workflows to bring mechanics to life.
-
----
+I'm always exploring new tools and workflows to bring mechanics to life.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -11,16 +9,12 @@ Always exploring new tools and workflows to bring mechanics to life.
 - **Languages:** C#, C, C++, Python, Java
 - **Focus:** 2D Gameplay Programming, RPG Mechanics, Game Jam Projects
 
----
-
 ### 🏆 Highlighted Project
 
 **[Synthesis](https://simonello.itch.io/synthesis)**
 - 🥉 **3rd Place** Game Jam Entry
 - A 2D Platform RPG developed in Unity.
 - Playable build available on my [itch.io profile](https://simonello.itch.io/).
-
----
 
 ### 📬 Connect with Me
 
