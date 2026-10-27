@@ -1,10 +1,12 @@
 # Hi there, I'm Simonellos 👋
 
-I am an aspiring **Indie Game Developer** focused on 2D mechanics, systems design, and gameplay programming.  
+I am an aspiring **Indie Game Developer** focused on 2D mechanics, systems design, and gameplay programming.  🌱
+
+I'm looking to learn and collaborate on interesting videogame programming projects 👀
 
 ### 🛠️ Tech Stack & Tools
 
-My main programming language is C# but i also know: Pythom, C, C++ and Java.
+My main programming language is C# but i'm also learning: Python, C, C++ and Java.
 I focus on 2D gameplay programmong, RPG mechanics and Game Jam projects
 
 ### 🏆 Highlighted Project
