@@ -11,7 +11,7 @@ I'm always exploring new tools and workflows to bring mechanics to life.
 
 ### 🏆 Highlighted Project
 
-**[Synthesis](https://simonello.itch.io/synthesis)**
+     **[Synthesis](https://simonello.itch.io/synthesis)**
 - 🥉 **3rd Place** Game Jam Entry
 - A 2D Platform RPG developed in Unity.
 - Playable build available on my [itch.io profile](https://simonello.itch.io/).
