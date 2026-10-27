@@ -7,12 +7,12 @@ I'm looking to learn and collaborate on interesting videogame programming projec
 ### 🛠️ Tech Stack & Tools
 
 My main programming language is C# but i'm also learning: Python, C, C++ and Java.
-I focus on 2D gameplay programmong, RPG mechanics and Game Jam projects
+I'm a beginner focusing on 2D gameplay programming, RPG mechanics and Game Jam projects.
 
 ### 🏆 Highlighted Project
 
 **[Synthesis](https://simonello.itch.io/synthesis)**
-- 🥉 **3rd Place** Game Jam Entry
+- 3rd Place Game Jam Entry
 - A 2D Platform RPG developed in Unity.
 - Playable build available on my [itch.io profile](https://simonello.itch.io/).
 
