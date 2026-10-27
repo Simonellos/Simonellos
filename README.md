@@ -12,7 +12,7 @@ I'm a beginner focusing on 2D gameplay programming, RPG mechanics and Game Jam p
 
 ### 🏆 Highlighted Project
 
-**[Synthesis](https://simonello.itch.io/synthesis)** 3rd Place Game Jam Entry
+**[Synthesis](https://simonello.itch.io/synthesis)** - 3rd Place Game Jam Entry
 
 ### 📬 Connect with Me
 
